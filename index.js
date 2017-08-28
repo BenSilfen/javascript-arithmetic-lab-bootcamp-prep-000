@@ -22,5 +22,5 @@ function makeInt(a){
 }
 function preserveDecimal(n){
   return parseFloat(2.222);
-  return parseFloat('sldkjflksjf');
+  return parseInt('sldkjflksjf',10);
 }
