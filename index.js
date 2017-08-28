@@ -1,6 +1,6 @@
 function add(){
   var = a
-  var = b  
+  var = b
   return a+b
 }
 
@@ -12,12 +12,12 @@ function subtract(){
 
 function multiply(){
   var = a
-  var = b 
+  var = b
   return a*b
 }
 
 function divide(){
   var = a
-  var = b 
+  var = b
   return a/b
 }
