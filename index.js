@@ -19,3 +19,6 @@ function dec(a){
 function makeInt(a){
   parseInt("a", 10)
 }
+function makeInt('0x2328'){
+  parseInt('0', 10)
+}
